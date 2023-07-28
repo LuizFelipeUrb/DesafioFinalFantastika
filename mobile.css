@@ -104,4 +104,7 @@
         width: 8vw;
         margin-right: 10px;
     }
+    .iconeheader{
+        display: none;
+    }
 }
