@@ -172,6 +172,9 @@ section p{
         display: flex;
         justify-content: space-around;
     }
+    .iconeheader{
+        display:none
+    }
 
 
 
